@@ -69,7 +69,7 @@ So, you can download the debugger APK at https://statres.quickapp.cn/quickapp/qu
 
 You can install it in your Android device. If the installation succeed, you will see a screen like the following figure:
 
-![Quick App Debugger screenshot](./images/org_hapjs_debugger.jpg)
+![Quick App Debugger screenshot](./images/debugger_main.jpg)
 
 
 ### (Alternative) Quick App Previewer
