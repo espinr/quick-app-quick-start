@@ -149,7 +149,7 @@ Opening the server URL with your favorite browser, or just scanning the QR code 
 
 You can install quick apps directly from the device file system.
 
-Use the Quick App Debugger to locate and open a new rpk file (`Install with file`). 
+Use the Quick App Debugger to locate and open a new rpk file (`INSTALL WITH FILE`). 
 
 
 ### Test the Quick App on Your Device
