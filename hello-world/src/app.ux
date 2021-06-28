@@ -1,0 +1,14 @@
+<script>
+/**
+ * @file application-level configuration, shared by all pages
+ * Public variables can be exported in app.ux
+ * Use this.$app.$def.<paramName> in other ux files in the src directory to call the variables exported here
+ * Document address: https://doc.quickapp.cn/framework/source-file.html#appux
+ */
+
+// Introduce the global function definition file global.js
+import './global'
+
+export default {}
+
+</script>

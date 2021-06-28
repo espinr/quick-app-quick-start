@@ -1,0 +1,27 @@
+<template>
+  <!-- There can only be one root node in the template -->
+  <div class="demo-page">
+    <text class="title">{{text}}</text>
+  </div>
+</template>
+
+<script>
+export default {
+  private: {
+    text: 'More details here'
+  }
+}
+</script>
+
+<style>
+  .demo-page {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .title {
+    font-size: 40px;
+    text-align: center;
+  }
+</style>

@@ -1,0 +1,24 @@
+<template>
+  <!-- There can only be one root node in the template -->
+  <div class="demo-page">
+    <text>{{text}}</text>
+    <text>{{des}}</text>
+  </div>
+</template>
+
+<script>
+export default {
+  private: {
+    text:'Hello Widget!',
+    des:'A widget is a lightweight quick app. The widget enables the quick app to provide additional functions in other apps and systems.'
+  }
+}
+</script>
+
+<style>
+  .demo-page {
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+  }
+</style>

@@ -1,0 +1,58 @@
+<template>
+  <!-- There can only be one root node in the template -->
+  <div class="demo-page">
+    <text class="title">Hello World!!</text>
+    <text class="subtitle">You are at {{title}}</text>
+    <!-- Click to jump to the details page -->
+    <input class="btn" type="button" value="Show me the details page" onclick="routeDetail" />
+  </div>
+</template>
+
+<script>
+import router from '@system.router'
+
+export default {
+  // The data model of page-level components affects the coverage mechanism of incoming data: 
+  // the attributes defined in private cannot be overwritten
+  private: {
+    title: 'Quick App main page'
+  },
+  routeDetail () {
+    // Jump to a certain page in the application. 
+    // For details on router usage, please refer to: Document->Interface->Page Routing
+    router.push ({
+      uri: '/DetailPage'
+    })
+  }
+}
+</script>
+
+<style>
+  .demo-page {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .title {
+    font-size: 80px;
+    font-weight: bold;
+    color: #09ba07;
+    text-align: center;
+  }
+
+  .subtitle {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .btn {
+    width: 550px;
+    height: 86px;
+    margin-top: 75px;
+    border-radius: 43px;
+    background-color: #09ba07;
+    font-size: 30px;
+    color: #ffffff;
+  }
+</style>
