@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hello World sample for Quick Apps",
   "engines": {
     "node": ">=8.10"
   },

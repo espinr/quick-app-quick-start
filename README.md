@@ -1,10 +1,9 @@
 # Quick App Quick Start
 
-This is a localization of the Official [Quick App Alliance](https://www.quickapp.cn/) [Sample Project](https://github.com/quickappcn/sample).
+This is a Getting Started Guide for Quick App with a basic 'hello world' sample code.
 
 [![node version][node-image]][node-url]
 [![hap-toolkit version][hap-toolkit-image]][hap-toolkit-url]
-[![CircleCI](https://circleci.com/gh/quickappcn/sample.svg?style=svg)](https://circleci.com/gh/quickappcn/sample)
 
 [node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
