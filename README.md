@@ -121,7 +121,7 @@ $ hap server --watch
 
 The console will show the IP address and port of the HTTP server if it properly launched.
 
-<img alt="Quick App Server launched" src="./images/server.png" height="500">
+![Quick App Server launched](./images/server.png)
 
 You can connect to this server from your Android device to try the Quick App. You can test your first Quick App on your device using either the Quick App Debugger for Android or a Web browser.
 
@@ -136,7 +136,7 @@ including the direct load from the file system (i.e., loading the rpk package ge
 
 The following figure shows how the quick app is loaded from a QR code and how to force the creation of a bookmark on the device´s desktop.
 
-![Quick App Debugger loading a quick app from a QR Code](./images/debugger.gif)
+<img alt="Quick App Debugger loading a quick app from a QR Code" src="./images/debugger.gif" height="500">
 
 #### View the Quick App on Your Browser
 
