@@ -134,7 +134,7 @@ including the direct load from the file system (i.e., loading the rpk package ge
 
 The following figure shows how the quick app is loaded from a QR code and how to force the creation of a bookmark on the device´s desktop.
 
-![Quick App Debugger loading a quick app from a QR Code](./images/debugger.gif)
+![Quick App Debugger loading a quick app from a QR Code](./images/debugger_light.gif)
 
 #### View the Quick App on Your Browser
 
