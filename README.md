@@ -121,7 +121,7 @@ $ hap server --watch
 
 The console will show the IP address and port of the HTTP server if it properly launched.
 
-![Quick App Server launched](./images/server.png)
+<img alt="Quick App Server launched" src="./images/server.png" height="500">
 
 You can connect to this server from your Android device to try the Quick App. You can test your first Quick App on your device using either the Quick App Debugger for Android or a Web browser.
 
