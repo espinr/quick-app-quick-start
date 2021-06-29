@@ -12,10 +12,9 @@ This is a Getting Started Guide for Quick App with a basic 'hello world' sample 
 
 ## Introduction
 
-In March 2018, 10 device vendors, including Xiaomi, ZTE, and Huawei, established the Quick App Alliance and jointly released the quick app standards.
-Since then, we can use a set of standards to develop applications that can run on various platforms. __One-time development, one-time upload, and automatic distribution to all vendors' devices.__
+[Quick App](https://quick-app-initiative.ow2.io/page/whitepaper/#what-is-a-quick-app) is an implementation of the emerging [W3C MiniApp standard](https://w3c.github.io/miniapp/white-paper/) that provides a framework for mobile application development based on widely known front-end web technologies (JavaScript, CSS,…). It enables developers to create “light” applications more efficiently with significant access to a host devices’ native resources and services.
 
-Quick apps are developed using the front-end technology stack. This project contains an example to help developers to get started with quick app development quickly.
+This repository contains a contains an example to help developers to get started with quick app development. Learn more about quick apps, the framework, use cases and the community behind, on the [Quick App White Paper](https://quick-app-initiative.ow2.io/page/whitepaper/).  
 
 ## Quick Start
 
